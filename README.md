@@ -15,7 +15,7 @@ Blog (Flask/Python)
 ![GitHub](https://img.shields.io/github/license/mysmarthub/flask_blog)
 ![GitHub Repo stars](https://img.shields.io/github/stars/mysmarthub/flask_blog?style=social)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/mysmarthub/flask_blog)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mysmarthub/flask_blog)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mysmarthub/flask_blog)
 
 ---
 Help the project financially:
